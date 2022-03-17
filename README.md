@@ -1,2 +1,2 @@
 # fftw
-implment of fftw algo by ts
+implment of fftw(fast fourier transform western) algo by ts
